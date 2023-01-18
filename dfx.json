@@ -3,6 +3,10 @@
       "day1": {
         "main": "day1/challenges.mo",
         "type": "motoko"
+      },
+      "day2": {
+        "main": "day2/challenges.mo",
+        "type": "motoko"
       }
     },
     "defaults": {
